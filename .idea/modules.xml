@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/core_main.iml" group="core" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/core_test.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/asset-planning.iml" filepath="$PROJECT_DIR$/.idea/modules/asset-planning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/asset-planning_main.iml" filepath="$PROJECT_DIR$/.idea/modules/asset-planning_main.iml" group="asset-planning" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/asset-planning_test.iml" filepath="$PROJECT_DIR$/.idea/modules/asset-planning_test.iml" group="asset-planning" />
     </modules>
   </component>
 </project>
